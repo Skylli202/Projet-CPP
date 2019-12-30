@@ -1,0 +1,7 @@
+Ceci est un test de lecture.
+Et j'ai plusieurs lignes.
+Et encore une :D.
+
+
+Une dernière pour la route bien sûr ave des caractères accentués.
+
